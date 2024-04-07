@@ -43,9 +43,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
+  asset:
     - assets/imgs/
-      - assets/imgs/yuda.jpg
     - assets/icons/
     - assets/gif/
 
