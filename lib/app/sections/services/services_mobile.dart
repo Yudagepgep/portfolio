@@ -5,6 +5,7 @@ class ServiceMobile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // ignore: unused_local_variable
     double height = MediaQuery.of(context).size.height;
 
     return Column(
