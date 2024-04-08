@@ -63,19 +63,24 @@ class _ServiceCardState extends State<_ServiceCard> {
             Space.y(2.w)!,
             if (Responsive.isDesktop(context))
               Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: widget.service.tool
-                      .map((e) => Row(
-                            children: [
-                              const Text('🛠   '),
-                              Text(e,
-                                  style: TextStyle(
-                                    color:
-                                        isHover ? whiteColor : theme.textColor,
-                                  )),
-                            ],
-                          ))
-                      .toList()),
+                children: [
+                  Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: widget.service.tool
+                          .map((e) => Row(
+                                children: [
+                                  const Text('🛠   '),
+                                  Text(e,
+                                      style: TextStyle(
+                                        color: isHover
+                                            ? whiteColor
+                                            : theme.textColor,
+                                      )),
+                                ],
+                              ))
+                          .toList()),
+                ],
+              ),
             if (Responsive.isMobile(context) || Responsive.isTablet(context))
               Expanded(
                 child: ListView(
