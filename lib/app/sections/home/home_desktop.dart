@@ -59,7 +59,7 @@ class HomeDesktop extends StatelessWidget {
                   Row(
                     crossAxisAlignment: CrossAxisAlignment.end,
                     children: [
-                      const Text("A ",
+                      const Text("I ",
                           style: TextStyle(
                             fontSize: 32,
                             fontWeight: FontWeight.w400,
@@ -83,7 +83,7 @@ class HomeDesktop extends StatelessWidget {
                   ),
                   Space.y(3.w)!,
                   ColorChageButton(
-                    text: 'download cv',
+                    text: 'download my cv',
                     onTap: () {
                       html.window.open(resume, "pdf");
                     },

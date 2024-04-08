@@ -47,7 +47,7 @@ class PortfolioMobileTab extends StatelessWidget {
           child: const Padding(
             padding: EdgeInsets.all(8.0),
             child: Text(
-              'See More',
+              'Lainya..',
               style: TextStyle(
                 fontSize: 16,
                 fontWeight: FontWeight.w600,

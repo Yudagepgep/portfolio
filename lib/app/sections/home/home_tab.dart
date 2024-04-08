@@ -69,7 +69,7 @@ class HomeTab extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       Text(
-                        "A ",
+                        "I ",
                         style: TextStyle(
                           fontSize: isFontSize(context, 24),
                           fontWeight: FontWeight.w400,
@@ -95,7 +95,7 @@ class HomeTab extends StatelessWidget {
                 ),
                 Space.y(2.w)!,
                 ColorChageButton(
-                  text: 'download cv',
+                  text: 'download my cv',
                   onTap: () {
                     html.window.open(resume, "pdf");
                   },

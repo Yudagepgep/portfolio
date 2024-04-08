@@ -15,29 +15,30 @@ List<ServicesUtils> servicesUtils = [
   ServicesUtils(
     name: 'Android App Development',
     icon: 'assets/icons/android.svg',
-    description:
-        "Are you interested in the great Mobile app? Let's make it a reality.",
-    tool: ['Flutter', 'React Native', 'Android (Kotlin or Java)'],
+    description: "Skill yang tek perlu diragukan! Mari kita coba",
+    tool: ['Flutter', 'Android (Java)'],
   ),
   ServicesUtils(
-    name: 'iOS App Development',
+    name: 'Database',
     icon: 'assets/icons/apple.svg',
-    description:
-        "Are you interested in the great Mobile app? Let's make it a reality.",
-    tool: ['Flutter', 'React Native'],
+    description: "Saya dapat memahami beberapa database!",
+    tool: ['Mysql', 'Sqlite', 'MongoDB', 'portSql', 'Firebase'],
   ),
   ServicesUtils(
     name: 'UI/UX Designing',
     icon: 'assets/icons/graphic.svg',
     description:
-        "I'm creating elegant designs suited to your needs following core design theory. ",
-    tool: ['Adobe XD', 'Figma', 'Photoshop'],
+        "Saya telah melakukan percobaan membuat designs UI, dengan beberapa platform!  ",
+    tool: ['Figma', 'Photoshop'],
   ),
   ServicesUtils(
     name: 'Web Development',
     icon: 'assets/icons/website.svg',
-    description:
-        "Do you have an idea for your next great website? Let's make it a reality.",
-    tool: ['Flutter', 'Html,css,js', 'Android (Kotlin or Java)'],
+    description: "Skill yang tek perlu diragukan! Mari kita coba",
+    tool: [
+      'Flutter',
+      'Html,css,php,js',
+      'Nodejs(Reactjs & Vuejs)' 'Android (Java)'
+    ],
   ),
 ];

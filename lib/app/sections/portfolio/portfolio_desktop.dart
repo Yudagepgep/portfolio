@@ -46,7 +46,7 @@ class _PortfolioDesktopState extends State<PortfolioDesktop> {
             child: const Padding(
               padding: EdgeInsets.all(8.0),
               child: Text(
-                'See More',
+                'Lainya..',
                 style: TextStyle(
                   fontSize: 20,
                   fontWeight: FontWeight.bold,

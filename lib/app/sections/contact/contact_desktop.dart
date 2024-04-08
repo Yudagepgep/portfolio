@@ -25,7 +25,7 @@ class ContactDesktop extends StatelessWidget {
           Space.y(1.w)!,
           const CustomSectionSubHeading(
             text:
-                "If you want to avail my services you can contact me at the links below.",
+                "Jika Anda menginginkan saya, Anda dapat menghubungi saya di tautan di bawah ini.",
           ),
           Space.y(2.w)!,
           Container(
