@@ -38,7 +38,8 @@ List<ServicesUtils> servicesUtils = [
     tool: [
       'Flutter',
       'Html,css,php,js',
-      'Nodejs(Reactjs & Vuejs)' 'Android (Java)'
+      'Nodejs(Reactjs & Vuejs)',
+      'Android (Java)'
     ],
   ),
 ];
