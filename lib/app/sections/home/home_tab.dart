@@ -33,7 +33,7 @@ class HomeTab extends StatelessWidget {
             ),
           ),
           Padding(
-            padding: EdgeInsets.only(left: 10.w, top: 10.h),
+            padding: EdgeInsets.only(left: 15.w, top: 15.h),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -49,7 +49,7 @@ class HomeTab extends StatelessWidget {
                       offset: const Offset(0, 0),
                       delay: const Duration(seconds: 2),
                       duration: const Duration(milliseconds: 800),
-                      child: Image.asset(StaticImage.hi, height: 10.sp),
+                      child: Image.asset(StaticImage.hi, height: 15.sp),
                     ),
                   ],
                 ),
