@@ -31,7 +31,7 @@ List<ProjectUtils> projectUtils = [
     links: 'https://github.com/sudeshnb/',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/03.png',
+    banners: 'assets/imgs/ba1.png',
     icons: 'assets/imgs/flutter.png',
     titles: 'App CV. Berkah Andalas',
     description:
