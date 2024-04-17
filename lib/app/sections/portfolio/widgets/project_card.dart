@@ -53,7 +53,7 @@ class ProjectCardState extends State<ProjectCard> {
                 children: [
                   Image.asset(
                     widget.project.icons,
-                    height: height * 0.08,
+                    height: height * 0.03,
                   ),
                   SizedBox(height: height * 0.02),
                   Text(
