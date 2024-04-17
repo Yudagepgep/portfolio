@@ -55,7 +55,7 @@ class ProjectCardState extends State<ProjectCard> {
                     widget.project.icons,
                     height: height * 0.05,
                   ),
-                  SizedBox(height: height * 0.02),
+                  SizedBox(height: height * 0.03),
                   Text(
                     widget.project.titles,
                     style: TextStyle(
@@ -64,7 +64,7 @@ class ProjectCardState extends State<ProjectCard> {
                     ),
                     textAlign: TextAlign.center,
                   ),
-                  SizedBox(height: height * 0.01),
+                  SizedBox(height: height * 0.03),
                   Text(
                     widget.project.description,
                     textAlign: TextAlign.center,
@@ -72,7 +72,7 @@ class ProjectCardState extends State<ProjectCard> {
                       color: isHover ? whiteColor : theme.textColor,
                     ),
                   ),
-                  SizedBox(height: height * 0.01),
+                  SizedBox(height: height * 0.03),
                 ],
               ),
             ),
