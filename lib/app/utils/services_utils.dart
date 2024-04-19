@@ -20,9 +20,9 @@ List<ServicesUtils> servicesUtils = [
   ),
   ServicesUtils(
     name: 'Database',
-    icon: 'assets/icons/apple.svg',
+    icon: 'assets/icons/database.svg',
     description: "Saya dapat memahami beberapa database!",
-    tool: ['Mysql', 'Sqlite', 'MongoDB', 'portSql', 'Firebase'],
+    tool: ['Mysql', 'Sqlite', 'portSql', 'Firebase'],
   ),
   ServicesUtils(
     name: 'UI/UX Designing',
