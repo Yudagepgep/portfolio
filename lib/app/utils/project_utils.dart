@@ -15,7 +15,7 @@ class ProjectUtils {
 
 List<ProjectUtils> projectUtils = [
   ProjectUtils(
-    banners: 'assets/imgs/02.png',
+    banners: 'assets/imgs/witra.png',
     icons: 'assets/imgs/flutter.png',
     titles: 'App Percetakan Witra',
     description:
@@ -23,7 +23,7 @@ List<ProjectUtils> projectUtils = [
     links: 'https://github.com/sudeshnb/poetically-.git',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/1.png',
+    banners: 'assets/imgs/ui_thrifty.jpg',
     icons: 'assets/imgs/flutter.png',
     titles: 'Exercise UI',
     description:
@@ -39,7 +39,7 @@ List<ProjectUtils> projectUtils = [
     links: 'https://github.com/sudeshnb/elderly_exercise_app.git',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/04.png',
+    banners: 'assets/imgs/ui_1.png',
     icons: 'assets/imgs/flutter.png',
     titles: 'Exercise App Flutter',
     description:
