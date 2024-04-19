@@ -39,7 +39,7 @@ List<ProjectUtils> projectUtils = [
     links: 'https://github.com/sudeshnb/elderly_exercise_app.git',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/ui_1.png',
+    banners: 'assets/imgs/ui_1.jpg',
     icons: 'assets/imgs/flutter.png',
     titles: 'Exercise App Flutter',
     description:
