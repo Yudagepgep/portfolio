@@ -26,7 +26,7 @@ List<ServicesUtils> servicesUtils = [
   ),
   ServicesUtils(
     name: 'UI/UX Designing',
-    icon: 'assets/icons/graphic.svg',
+    icon: 'assets/icons/database.png',
     description:
         "Saya telah melakukan percobaan membuat designs UI, dengan beberapa platform!  ",
     tool: ['Figma', 'Photoshop'],
