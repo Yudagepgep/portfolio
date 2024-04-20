@@ -20,13 +20,13 @@ List<ServicesUtils> servicesUtils = [
   ),
   ServicesUtils(
     name: 'Database',
-    icon: 'assets/icons/database.svg',
+    icon: 'assets/icons/database.png',
     description: "Saya dapat memahami beberapa database!",
     tool: ['Mysql', 'Sqlite', 'portSql', 'Firebase'],
   ),
   ServicesUtils(
     name: 'UI/UX Designing',
-    icon: 'assets/icons/database.png',
+    icon: 'assets/icons/graphic.svg',
     description:
         "Saya telah melakukan percobaan membuat designs UI, dengan beberapa platform!  ",
     tool: ['Figma', 'Photoshop'],
