@@ -8,7 +8,7 @@ const String gitHub = 'https://github.com/Yudagepgep';
 const String facebook = 'https://www.facebook.com/yudagepgep';
 
 // Github Link
-const String linkedin = 'www.linkedin.com/in/yuda-kurniawan-18b120247';
+const String linkedin = 'https://in/yuda-kurniawan-18b120247';
 // Github Link
 const String instagram = 'https://www.instagram.com/yudagepgep';
 
